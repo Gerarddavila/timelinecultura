@@ -4,7 +4,7 @@
 }
 
 body {
-	background: #222;
+	background: #102F46;
 	font-family: Georgia, serif;
 	color: #fff;
 	font-size: 14px;
@@ -73,12 +73,12 @@ h1,h2,h4,h5,h6 {
 		
 		#issues {
 			width: 800px;
-			height: 350px;
+			height: 500px;
 			overflow: hidden;
 		}	
 			#issues li {
 				width: 800px;
-				height: 350px;
+				height: 500px;
 				list-style: none;
 				float: left;
 			}
